@@ -2,7 +2,7 @@ function App() {
   return (
     <div>
       <h1>React Jenkins S3 CI/CD Demo</h1>
-      <h2>Deployment successful22!</h2>
+      <h2>Finally!</h2>
     </div>
   );
 }
